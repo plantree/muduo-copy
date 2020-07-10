@@ -13,6 +13,6 @@
 #### 工具
 
 - cmake，项目管理
-- catch，单元测试
+- catch2，单元测试
 - Travis CI，持续集成
 
